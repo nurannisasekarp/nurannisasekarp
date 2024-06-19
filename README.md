@@ -1,6 +1,6 @@
 # Hi there, I'm Annisa! 👋
 
-## 📝 Biodata
+## 📝 Currently Learning
 - **Location:** West Java, Indonesia
 
 ## 🌐 Connect with Me
