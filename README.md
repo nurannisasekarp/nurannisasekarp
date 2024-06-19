@@ -1,9 +1,7 @@
 
 # Hi there, I'm Annisa! 👋
 
-<center>
-    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
-</center>
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="1000">
 
 ## 📝 Currently Learning
 <ul>
