@@ -4,6 +4,7 @@
 <ul>
   <li>React Js</li>
   <li>Lumen</li>
+  <li>Laravel</li>
 </ul>
 
 ## 🌐 Connect with Me
