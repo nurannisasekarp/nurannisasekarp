@@ -1,7 +1,10 @@
 # Hi there, I'm Annisa! 👋
 
 ## 📝 Currently Learning
-- **Location:** West Java, Indonesia
+<ul>
+  <li>React Js</li>
+  <li>Lumen</li>
+</ul>
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-annisa-sekar-prihananto-385b5a275/)
